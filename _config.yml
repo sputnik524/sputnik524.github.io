@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-CH"
-title                    : "Hatsukun's site"
+title                    : "Haitao's site"
 title_separator          : "-"
 name                     : &name "Haitao Yu"
 description              : &description "CSE Master at ETH-Zurich"
-url                      : https://thisHatsukun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sputnik524.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thisHatsukun.github.io"
+repository               : "sputnik524.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
