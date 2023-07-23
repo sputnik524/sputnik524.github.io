@@ -168,7 +168,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
 
 <heading><strong>Instant-Sim</strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
-    <td width="30%">
+    <td width="50%">
       <div class="one">
       <img src="/images/inst-sim.png" width="100%"> </div>
     </td>
@@ -197,7 +197,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
 <heading><strong>Point-Based Radiance Fields for Animatable Human Model</strong> </heading>
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <tr onmouseout="sava_stop()" onmouseover="sava_start()">  
-            <td width="40%">
+            <td width="50%">
               <div class="one">
                 <img src='/images/pointnerf.png' width="100%" />
                 </div>
