@@ -46,7 +46,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
   </style>
 
 
-<heading><strong>Detail-Preserving Fluid Simulation by Advection-Reflection Solver in Taichi</strong> </heading>
+<heading><strong>Detail-Preserving Fluid Simulation by Advection-Reflection Solver in <a href="https://www.taichi-lang.org/">Taichi*</a></strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="nice_stop()" onmouseover="nice_start()"> 
 
@@ -85,5 +85,111 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
       In this project, we present a 
     </td>
   </tr>
+</table>
+<hr>
+
+<heading><strong>Multi-Agent Reinforcement Learning Based Sample Consensus for Robust Estimation</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <tr onmouseout="holo_stop()" onmouseover="holo_start()">  
+            <td width="40%">
+              <div class="one">
+                  <img src='/images/projects/holospot.png' width="100%"/>
+                </div>
+
+              <script type="text/javascript">
+              function holo_start() { 
+              document.getElementById('holo_shape').style.opacity = "1";
+              }
+              function holo_stop() { 
+              document.getElementById('holo_shape').style.opacity = "0"; 
+              }
+              holo_stop()
+              </script>
+            </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+            Holo-Spot: Accessible Robot Control in Mixed Reality
+            </strong>
+            </papertitle>
+      <br>
+          <strong>Haitao Yu*</strong>,
+          Zhiyuan Huang*,
+          Turlan Kuzhagaliyev*,
+          Saurabh Vaishampayan*,
+          David Feng*
+          (* means equal contribution)
+        <br>
+          <em>Course project of 3D Vision 2023 in ETH Zürich</em>
+        <br>
+        <a href="https://drive.google.com/file/d/1fkOCVTuatSYTuB6-asWYeytRvmKydHlo/view?usp=drive_link"> Report </a> | 
+        <a href="https://github.com/sputnik524">Github Repo </a>
+        <br>
+        In this project, we </td>
+    </tr>
+  </table>
+  <hr>
+
+<heading><strong>Extension on Physically-based Renderer: [Nori](https://cgl.ethz.ch/teaching/cg22/www-nori/index.html)</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <tr onmouseout="kombu_stop()" onmouseover="kombu_start()">  
+            <td width="40%">
+              <div class="one">
+                  <img src='/images/projects/kombu.png' width="100%"/>
+              </div>
+
+              <script type="text/javascript">
+              function kombu_start() { 
+              document.getElementById('kombu_shape').style.opacity = "1";
+              }
+              function kombu_stop() { 
+              document.getElementById('kombu_shape').style.opacity = "0"; 
+              }
+              kombu_stop()
+              </script>
+            </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+            <a href="https://github.com/sputnik524/CG_final_report">Extension on Physically-based Renderer: Nori</a>
+            </strong>
+            </papertitle>
+      <br>
+          <strong>Haitao Yu</strong>
+        <br>
+          <em>Course project of Computer Graphics 2022 in ETH Zürich</em>
+        <br>
+        <a href="https://github.com/sputnik524/CG_final_report">Github Repo </a>
+        <br>
+        In this project, .</td>
+    </tr>
+  </table>
+  <hr>
+
+<heading><strong>Instant-Sim</strong> </heading>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <td width="30%">
+      <div class="one">
+      <img src="/images/projects/opus.png" width="100%"> </div>
+    </td>
+    <td valign="top" width="75%">
+          <papertitle>
+          <strong>
+            Data augmentation with Instant-NeRF 
+          </strong>
+          </papertitle>
+    <br>
+        <strong>Haitao Yu*</strong>,
+        <a href="https://github.com/thisiszy">Zhiyuan Huang*</a>,
+        Mingxuan Qin*
+        (* means equal contribution)
+      <br>
+        <em>Course project of Deep Learning 2022 in ETH Zürich</em>
+      <br>
+      <a href="https://github.com/thisiszy/Instant-Sim/blob/master/report.pdf">Report</a> | 
+      <a href="https://github.com/thisiszy/Instant-Sim">Github Repo</a>
+      <br>
+      Focus on ..
+    </td>
 </table>
 <hr>
