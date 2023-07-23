@@ -46,7 +46,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
   </style>
 
 
-<heading><strong>Detail-Preserving Fluid Simulation by Advection-Reflection Solver in <a href="https://www.taichi-lang.org/">Taichi*</a></strong> </heading>
+<heading><strong>Detail-Preserving Fluid Simulation by Advection-Reflection Solver in <a href="https://www.taichi-lang.org/">Taichi</a></strong> </heading>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="nice_stop()" onmouseover="nice_start()"> 
 
@@ -130,7 +130,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
   </table>
   <hr>
 
-<heading><strong>Extension on Physically-based Renderer: [Nori](https://cgl.ethz.ch/teaching/cg22/www-nori/index.html)</strong> </heading>
+<heading><strong>Extension on Physically-based Renderer: <a href="https://cgl.ethz.ch/teaching/cg22/www-nori/index.html/">Nori</a></strong> </heading>
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <tr onmouseout="kombu_stop()" onmouseover="kombu_start()">  
             <td width="40%">
@@ -193,3 +193,47 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
     </td>
 </table>
 <hr>
+
+<heading><strong>Point-Based Radiance Fields for Animatable Human Model</strong> </heading>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+    <tr onmouseout="sava_stop()" onmouseover="sava_start()">  
+            <td width="40%">
+              <div class="one">
+                <div class="two" id='sava_shape'>
+                  <img src='/images/projects/sava.gif' width="100%"/>                 
+                </div>
+                <img src='/images/projects/sava.png' width="100%" />
+                </div>
+
+              <script type="text/javascript">
+              function sava_start() { 
+              document.getElementById('sava_shape').style.opacity = "1";
+              }
+              function sava_stop() { 
+              document.getElementById('sava_shape').style.opacity = "0"; 
+              }
+              sava_stop()
+              </script>
+            </td>
+      <td valign="top" width="75%">
+            <papertitle>
+            <strong>
+            Point-Based Radiance Fields for Animatable Human Model
+            </strong>
+            </papertitle>
+      <br>
+          <strong>Haitao Yu*</strong>,
+          <a href="https://github.com/dehezhang2">Deheng Zhang*</a>,
+          <a href="https://github.com/TianyiZhang-arc"> Tianyi Zhang*</a>,
+          Peiyuan Xie*
+          (* means equal contribution)
+        <br>
+          <em>Course project of Digital Human 2023 in ETH Zürich</em>
+        <br>
+        <a href="https://drive.google.com/file/d/1hqf_ugm07J3xs9FFm125my0i948OArX_/view?usp=drive_link">Paper</a> | 
+        Github Repo(Coming soon..)
+        <br>
+        In this project, I propose..</td>
+    </tr>
+  </table>
+  <hr>
