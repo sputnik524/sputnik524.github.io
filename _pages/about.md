@@ -82,7 +82,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
       <br>
        <a href="https://github.com/amomorning/pbs-fluid">Github Repo</a>
       <br>
-      In this project, we present a 
+      In this project, we implement a fluid simulator with Taichi, which incroperates bunch of different numerical algorithms based on pervasive Advection-Projection methods. In specific, we compare the visual effect of a 2D plume among different algorithms, together with algorithm explanations. Especially, we also implement [advection-refelction](https://jzehnder.me/publications/advectionReflection/) scheme according to this paper for better energy perservasion.
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
         <a href="https://drive.google.com/file/d/1fkOCVTuatSYTuB6-asWYeytRvmKydHlo/view?usp=drive_link"> Report </a> | 
         <a href="https://github.com/sputnik524">Github Repo </a>
         <br>
-        In this project, we </td>
+        In this project, we propose and implement a Multi-Agent extension of RLSAC, a single-agent reinforcement learning based pipeline to perform robust sample consensus estimation. Particularly, we implement two broad categories of MARL: Counterfactual Policy Gradients (COMA)and Multi-Agent Soft Actor Critic, under the customized RLSAC environment.</td>
     </tr>
   </table>
   <hr>
@@ -161,7 +161,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
         <br>
         <a href="https://github.com/sputnik524/CG_final_report">Github Repo </a>
         <br>
-        In this project, .</td>
+        In this project, I extend several advanced functionalities on Nori, a Physically-based Renderer developed during the course Computer graphics, including volumetric rendering in heterogenerous participating media, Disney BSDF, Image as Textures and Normal Mapping. I also manage to render a self-construct scene (topic: Out of Place) and participate in the final round of the school-level Rendering Competition.</td>
     </tr>
   </table>
   <hr>
@@ -189,7 +189,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
       <a href="https://github.com/thisiszy/Instant-Sim/blob/master/report.pdf">Report</a> | 
       <a href="https://github.com/thisiszy/Instant-Sim">Github Repo</a>
       <br>
-      Focus on ..
+       Generally speaking, we integrate [Instant-NeRF](https://github.com/NVlabs/instant-ngp) (followed this [pytorch implementaion](https://github.com/ashawkey/torch-ngp)) in the original version of [Neural-Sim](https://github.com/gyhandy/Neural-Sim-NeRF) to facilitate NeRF model training and evaluation step for downstream task. We ran the experiments on a self-generated dataset: hand gesture detection based on BlenderNeRF, to verify the successful integration.
     </td>
 </table>
 <hr>
@@ -230,7 +230,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
         <a href="https://drive.google.com/file/d/1hqf_ugm07J3xs9FFm125my0i948OArX_/view?usp=drive_link">Paper</a> | 
         Github Repo(Coming soon..)
         <br>
-        In this project, I propose..</td>
+        In this project, we proposed a new method for learning animatable human avatar model with point-based primitives. In specific, our method exploits the explicit point cloud to train the static 3D scene based on Point-NeRF and apply the deformation by encoding the point cloud translation using a deformation MLP. We also guarantee the rendering consistency by perform rotation-only ray-bending. The final [animating avatar](https://www.youtube.com/watch?v=3iZ_89IwZUU) is comparable to other state-of-art animatable human models. </td>
     </tr>
   </table>
   <hr>
