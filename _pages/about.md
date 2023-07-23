@@ -52,7 +52,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
 
     <td width="40%">
       <div class="one">
-      <img src='/images/projects/niceslam.png' width="100%" >
+      <img src='/images/pbs.gif' width="100%" >
       </div>
       
       <script type="text/javascript">
@@ -93,7 +93,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
     <tr onmouseout="holo_stop()" onmouseover="holo_start()">  
             <td width="40%">
               <div class="one">
-                  <img src='/images/projects/holospot.png' width="100%"/>
+                  <img src='/images/MARLSAC.png' width="100%"/>
                 </div>
 
               <script type="text/javascript">
@@ -135,7 +135,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
     <tr onmouseout="kombu_stop()" onmouseover="kombu_start()">  
             <td width="40%">
               <div class="one">
-                  <img src='/images/projects/kombu.png' width="100%"/>
+                  <img src='/images/FinalScene.png' width="100%"/>
               </div>
 
               <script type="text/javascript">
@@ -170,7 +170,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
     <td width="30%">
       <div class="one">
-      <img src="/images/projects/opus.png" width="100%"> </div>
+      <img src="/images/inst-sim.png" width="100%"> </div>
     </td>
     <td valign="top" width="75%">
           <papertitle>
@@ -199,10 +199,7 @@ This is Haitao's academic personal site! I am currently a M.S. student at ETH Zu
     <tr onmouseout="sava_stop()" onmouseover="sava_start()">  
             <td width="40%">
               <div class="one">
-                <div class="two" id='sava_shape'>
-                  <img src='/images/projects/sava.gif' width="100%"/>                 
-                </div>
-                <img src='/images/projects/sava.png' width="100%" />
+                <img src='/images/pointnerf.png' width="100%" />
                 </div>
 
               <script type="text/javascript">
