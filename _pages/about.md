@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Haitao's academic personal site! I am currently a M.S. student at ETH Zurich, majoring in [Computational Science and Engineering(CSE)](https://rw.ethz.ch/). I obtained my bachelor degree in [South China University of Technology](https://www.scut.edu.cn/en/) in July, 2021.  
+This is Haitao's academic personal site! I am currently a M.S. student at ETH Zurich, majoring in [Computational Science and Engineering(CSE)](https://rw.ethz.ch/). I obtained my bachelor degree in [South China University of Technology](https://www.scut.edu.cn/en/) in July, 2021, where I developed my interest in computational science, especially in fields of materials and physics. 
+
+During my study in ETH Zurich since 2021, I gradually learned fundamentals of CSE, including numerical methods and high performance computing, together with mathematical and machine learning basis. Then, I decided to specialize in computaional Roboitcs and started to grow interest in visual computing and computer graphics.
 
 **Research interest:** I am open to any exciting combination of computer graphics, 3D vision and machine learning! (including Neural rendering, differentiable physically-based simulation, digital humans...)
 
