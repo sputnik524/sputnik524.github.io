@@ -13,7 +13,7 @@ Education
 ======
 - *2021 - Present*, Master of Science, Computational Science and Engineering, D-MATH, ETH Zürich, Switzerland.
   
-  - **Distinct Course**: Digital Humans (6.0/6.0), Shape Modeling and Geometry Processing (6.0/6.0), Numerical Methods for Partial Differentiable Equations (5.75/6.0), Molecular and Materials Modelling (5.75/6.0), Computer Graphics (5.5/6.0), Physically-Based Simulation in Computer Graphics (5.5/6.0) 
+  - **Distinct Course**: Digital Humans (6.0/6.0), Shape Modeling and Geometry Processing (6.0/6.0), Numerical Methods for Partial Differentiable Equations (5.75/6.0), High-Performance Computing Lab for CSE (5.75/6.0), Computer Graphics (5.5/6.0), Physically-Based Simulation in Computer Graphics (5.5/6.0) 
  
 
 - *2017 - 2021*, Bachelor of Engineering, Material Science (Innovation School of Advanced Materials), South China University of Technology, Guangzhou, Guangdong Province, China
