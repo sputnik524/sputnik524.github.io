@@ -16,7 +16,17 @@ During my study in ETH Zurich since 2021, I gradually learned fundamentals of CS
 
 <font size="5"> <strong> News: </strong> </font> <br>
 
-<font size="5"> <strong> Personal/course projects: </strong> </font>
+**09/2023:** Start a semester project at [Disney Research|Studios](https://studios.disneyresearch.com/), supervised by Xianyao Zhang and overseen by Dr. Marios Papas and Prof. Markus Gross
+
+**08/2023:** Start a semester project at [Interactive Geometry Lab](https://igl.ethz.ch/), supervised by Dr. Jing Ren and overseen by Prof. Olga Sorkine-Hornung
+
+**09/2022:** Dematriculate from M.Sc in Material Science and Engineering, enrolled in master programme of Computational Science and Engineering at ETH Zurich
+
+**09/2021:** Enrolled in master programme of Material Science and Engineering at ETH Zurich
+
+**07/2021:** Graduate from South China University of Technology (SCUT), achieving B.Eng. in Material Science and Engineering. Bachelor thesis: Constructing Vitrimer-like Materials from Coordinative Self-Assembly Structure   
+
+<font size="5"> <strong> Personal/course projects: </strong> </font> <br>
 
 <html>
   <head>
