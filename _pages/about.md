@@ -14,7 +14,7 @@ During my study in ETH Zurich since 2021, I gradually learned fundamentals of CS
 
 **Research interest:** I am open to any exciting combination of computer graphics, 3D vision and machine learning! (including Neural rendering, differentiable physically-based simulation, digital humans...)
 
-<font size="5"> <strong> News: </strong> </font> <br>
+<font size="5"> <strong> News: </strong> </font> 
 
 **09/2023:** Start a semester project at [Disney Research Studios](https://studios.disneyresearch.com/), supervised by Xianyao Zhang and overseen by Dr. Marios Papas and Prof. Markus Gross
 
@@ -26,7 +26,7 @@ During my study in ETH Zurich since 2021, I gradually learned fundamentals of CS
 
 **07/2021:** Graduate from South China University of Technology (SCUT), achieving B.Eng. in Material Science and Engineering. Bachelor thesis: Constructing Vitrimer-like Materials from Coordinative Self-Assembly Structure   
 
-<font size="5"> <strong> Personal/course projects: </strong> </font> <br>
+<font size="5"> <strong> Personal/course projects: </strong> </font>
 
 <html>
   <head>
