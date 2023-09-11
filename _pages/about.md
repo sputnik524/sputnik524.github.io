@@ -14,9 +14,9 @@ During my study in ETH Zurich since 2021, I gradually learned fundamentals of CS
 
 **Research interest:** I am open to any exciting combination of computer graphics, 3D vision and machine learning! (including Neural rendering, differentiable physically-based simulation, digital humans...)
 
-<font size="5"> **News:** </font>
+<font size="5"> <strong> News: </strong> </font> <br>
 
-<font size="5"> **Personal/course projects:** </font>
+<font size="5"> <strong> Personal/course projects: </strong> </font>
 
 <html>
   <head>
