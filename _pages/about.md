@@ -26,7 +26,7 @@ During my study in ETH Zurich since 2021, I gradually learned fundamentals of CS
 
 **07/2021:** Graduate from South China University of Technology (SCUT), achieving B.Eng. in Material Science and Engineering. Bachelor thesis: Constructing Vitrimer-like Materials from Coordinative Self-Assembly Structure   
 
-<font size="5"> <strong> Personal/course projects: </strong> </font>
+<font size="5"> <strong> Personal/course projects: </strong> </font> <br>
 
 <html>
   <head>
